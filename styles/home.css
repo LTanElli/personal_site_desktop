@@ -35,9 +35,15 @@ nav{
     margin-bottom: 20px;
     text-decoration: none;
 }
-nav button a{
+nav span a{
     text-decoration: none;
     color:#171A21
+}
+a{
+    color:#171A21
+}
+span{
+    text-align: center;
 }
 header a:hover{
     color:#DAD2D8
@@ -55,6 +61,9 @@ header a:hover{
 .home {
     border-color: #4E6E58;
     color: #171A21;
+    text-align: center;
+    text-align: center;
+    font-family: "Rubik 500";
   }
 .home:hover {
     background-color: #4E6E58;
